@@ -16,3 +16,10 @@
   font-size: 1rem;
   line-height: 1em;
 }
+
+.ld {
+  height: 5vh;
+  width: 5vw;
+  margin: 0 .5em;
+  vertical-align: top;
+}
