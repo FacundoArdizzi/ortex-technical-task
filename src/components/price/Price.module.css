@@ -1,0 +1,18 @@
+.price {
+  height: 5vh;
+  width: fit-content;
+  margin: 0 .5em;
+  text-align: center;
+}
+.price h3 {
+  line-height: 0;
+  font-size: .8rem;
+  margin-top: 0;
+  font-weight: normal;
+  color: var(--gray);
+}
+.price h2 {
+  color: white;
+  font-size: 1rem;
+  line-height: 1em;
+}

@@ -1,0 +1,16 @@
+.inpName {
+  background: transparent;
+  width: 100%;
+  color: white;
+  border: transparent;
+  border-bottom: 1px solid var(--gray);
+  padding: .5em;
+  transition: all .3s ease;
+  box-sizing: border-box;
+  outline: none;
+  font-size: 1rem;
+  transition: all .3s ease;
+}
+.inpName:focus {
+  border-bottom: 1px solid var(--brand);
+}
